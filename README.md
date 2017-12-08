@@ -9,6 +9,8 @@ I have Created code for Options Trading based on Various Trading Technical Indic
 
 Still working on more advanced Strategies based on **Black Scholes Merton Option Pricing**. Next I will work on incorporating **Time Series** and **Neural Networks** (RNNs to be specific) to improve accuraacy (Decrease Standard Deviation from current models) and Perfomance.  
 
+**LSTMs** have gave me promosing results and now I am exploring advance LSTM like MD LSTM and MiD LSTM for better prediction and more feature inclusion.
+
 **Help & Motivate my work by little generosity:**
 
 Bitcoin: [1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND](https://tradeblock.com/bitcoin/address/1HQaop8Vs3xLdNATfGWZzBNw211AGUT1ND)
