@@ -4,7 +4,7 @@
 
 # To get the closing prices data
 from pandas_datareader import data as pdr
-import fix_yahoo_finance as yf
+import yfinance as yf
 yf.pdr_override()
 
 # Plotting data
